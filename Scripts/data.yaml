@@ -1,0 +1,7 @@
+train: D:/Last_dance/Final_dataset/train/images
+val: D:/Last_dance/Final_dataset/valid/images
+test: D:/Last_dance/Final_dataset/test/images
+
+nc: 9
+names: ['Aphids', 'Armyworm', 'Beetle', 'Bollworm', 'Grasshopper', 
+        'Mites', 'Mosquito', 'Sawfly', 'Cicadellidae'] 
